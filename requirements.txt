@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+fer==22.5.1
+opencv-python-headless
+python-multipart
+tensorflow-cpu
